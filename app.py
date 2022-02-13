@@ -217,6 +217,6 @@ def gen_frames(names):
 
 if __name__ == "__main__":
     pass
-    # generate_dataset(1)
+    # generate_dataset(2, max_samples=30)
     # train()
-    # start_face_detection(['NONE','PJ'])
+    start_face_detection(['NONE','PJ', 'Praanjjal'])
